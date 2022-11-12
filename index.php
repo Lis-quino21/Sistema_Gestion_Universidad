@@ -10,3 +10,5 @@ require_once "Modelos/carrerasM.php";
 
 $plantilla = new Plantilla();
 $plantilla -> LlamarPlantilla();
+
+echo "Hola Liseth";
